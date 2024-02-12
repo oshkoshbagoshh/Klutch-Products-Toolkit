@@ -12,6 +12,9 @@
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.2",
         "laravel/tinker": "^2.8",
+        "league/csv": "^9.0",
+        "nextapps/unique-codes": "^2.3",
+        "phpoffice/phpword": "^1.2",
         "tightenco/ziggy": "^1.0"
     },
     "require-dev": {
